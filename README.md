@@ -19,7 +19,15 @@ Software pre-requisites
   ![image](https://user-images.githubusercontent.com/47327157/120932374-1ecd2900-c713-11eb-9118-9fa40cf4c0be.png)
 
 5. Create new project using same command prompt (by pressing Enter in step number 4)
-
+Remember the location where you are creating the project
 ![image](https://user-images.githubusercontent.com/47327157/120932511-c4809800-c713-11eb-8d58-47ae5e705052.png)
+
+6. Download Code editor
+
+I used Visual studio here for building this project.
+  - go to visual studio in search bar press Code and add it to path
+  - From command prompt go to the folder location where you created project in step 5 and type code . and enter
+  ![image](https://user-images.githubusercontent.com/47327157/120934084-8e92e200-c71a-11eb-905c-a0d8113f7e73.png)
+
 
 
