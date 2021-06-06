@@ -18,5 +18,8 @@ Software pre-requisites
   
   ![image](https://user-images.githubusercontent.com/47327157/120932374-1ecd2900-c713-11eb-9118-9fa40cf4c0be.png)
 
+5. Create new project using same command prompt (by pressing Enter in step number 4)
+
+![image](https://user-images.githubusercontent.com/47327157/120932511-c4809800-c713-11eb-8d58-47ae5e705052.png)
 
 
