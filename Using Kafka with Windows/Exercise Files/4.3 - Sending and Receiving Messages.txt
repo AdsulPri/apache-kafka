@@ -1,0 +1,20 @@
+# This code is made for Unix-based systems such as Linux and Mac OSX
+# For Windows use bin\windows\ instead of bin\, and change the script extension
+# to .bat
+
+cd C:\Users\Adsul\Desktop\Kafka\kafka_2.11-2.2.2
+
+# Run the producer in terminal and enter some messages
+> start bin\windows\kafka-console-producer --broker-list localhost:9092 --topic test
+message 1
+message 2
+message 3
+
+# In a new terminal window read the messages
+> start bin\windows\kafka-console-consumer --bootstrap-server localhost:9092 --topic test --from-beginning
+message 1
+message 2
+message 3
+
+# If you go side-by-side with the terminal windows you can type in the producer
+# window and see the results appear in the consumer
