@@ -1,33 +1,7 @@
-# Nursery
+Apache kafka
 
-Software pre-requisites
-
-1. https://nodejs.org/en/ install node js
-![image](https://user-images.githubusercontent.com/47327157/120932224-9189d480-c712-11eb-874d-5b63ab6b28dc.png)
-
-2. Once it is installed check - 
-  node --version
-  
-  ![image](https://user-images.githubusercontent.com/47327157/120932279-c6962700-c712-11eb-9d9f-c6a4575d1c80.png)
-
-3. Install NPM package with command on command promt - 
-  npm install -g @angular/cli
-  
- 4. Once insatlled check the versions
-  ng --version
-  
-  ![image](https://user-images.githubusercontent.com/47327157/120932374-1ecd2900-c713-11eb-9118-9fa40cf4c0be.png)
-
-5. Create new project using same command prompt (by pressing Enter in step number 4)
-Remember the location where you are creating the project
-![image](https://user-images.githubusercontent.com/47327157/120932511-c4809800-c713-11eb-8d58-47ae5e705052.png)
-
-6. Download Code editor
-
-I used Visual studio here for building this project.
-  - go to visual studio in search bar press Code and add it to path
-  - From command prompt go to the folder location where you created project in step 5 and type code . and enter
-  ![image](https://user-images.githubusercontent.com/47327157/120934084-8e92e200-c71a-11eb-905c-a0d8113f7e73.png)
+Course : 
 
 
+<div style="position:relative;height:0;padding-bottom:56.25%"><iframe width="640" height="360" src="https://www.linkedin.com/learning/embed/learn-apache-kafka-for-beginners/intro-to-apache-kafka?claim=AQE_oMYqQzN4PQAAAXoEgFR4OkSlvWvou-m2ceJr9MDXw4wOKBG8eUQIJULFM86TkecLc2rFpYUGutrbi-_KRaJWUHoBzBHTB8rZqnFgDiIWK0mqr4t852FCJU9CvPv_uxVAMEAQ7ZaKNVkkt5OGxmSmDSHXNwaiQB1ALE0RhbAfMkwqQzKqL_41VcWb0wi23wMU_tKk0uhljYQA8VY8hm7wnpEdS98sOxY4E9Y3aHr3wKD4r90Mmg4ufQcVwMmrMaebX_ezjQ3GgZRMR_H7C27ZMrMUWX_A6RdAWzDtpaR4srbAmUnq_XHFtsKAOIYroM7zIulR1cPc2pWW4JF1cNYdkZ91CoF8HhITtlXzHhCyybKphG6RdQ6mWky3SD3Cw6QdMMY5HoGtP_6V4MQiKfvx_UpwOiwjlkea-_I3A7D3etCbdkhawL_2DEVOZU6-QmdEvOcJ3ady6A4FRQd-eEED2gcJCiOAvpnOHpdzx5-2une6UWFN8v8I79cipXEsSPDrLoBbKi7Vvk6bstQMhC6N0zYpOE0so7WSU8aKmw5Wp0zCpZh2xhA27ID19zPYpudN5rB92lXcENIex7EK2_KwS59MPF2ZiwO_23GMbVlkj_kBiDRe6VQa2VfrhuNf2LdnEAedR89d5FD0pnGdKCu74WhcIHuoNw0w3LvgCFLmRaOzwvYns6lOFw6Hr1ZhMA3Mi5Y50wpcj2tdQ4Hk8qTM2BWNpALNUfNQUQXS3auadQ" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true" frameborder="0" style="position:absolute;width:100%;height:100%;left:0"></iframe></div><p><strong><a href="https://www.linkedin.com/learning/learn-apache-kafka-for-beginners/intro-to-apache-kafka?trk=embed_lil">Intro to Apache Kafka</a></strong> from <strong><a href="https://www.linkedin.com/learning/learn-apache-kafka-for-beginners?trk=embed_lil">Learn Apache Kafka for Beginners</a></strong> by <strong><a href="https://www.linkedin.com/learning/instructors/stephane-maarek?trk=embed_lil">Stephane Maarek</a></strong></p>
 
